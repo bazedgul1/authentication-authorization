@@ -3,51 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>README</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      line-height: 1.6;
-      margin: 0;
-      padding: 0;
-      background-color: #f4f4f9;
-      color: #333;
-    }
-    header {
-      background: #007bff;
-      color: #fff;
-      padding: 20px 10px;
-      text-align: center;
-    }
-    header h1 {
-      margin: 0;
-      font-size: 2.5em;
-    }
-    section {
-      max-width: 800px;
-      margin: 20px auto;
-      background: #fff;
-      padding: 20px;
-      border-radius: 8px;
-      box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-    }
-    h2 {
-      color: #007bff;
-    }
-    p {
-      margin: 10px 0;
-    }
-    ul {
-      list-style-type: square;
-      padding-left: 20px;
-    }
-    footer {
-      text-align: center;
-      margin: 20px 0;
-      font-size: 0.9em;
-      color: #666;
-    }
-  </style>
+  <title>README</title
 </head>
 <body>
   <header>
